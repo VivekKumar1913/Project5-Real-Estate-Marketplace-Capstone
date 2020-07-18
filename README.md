@@ -86,7 +86,7 @@ Starting migrations...
 2_deploy_contracts.js
 =====================
 
-   Deploying 'MahiERC721Token'
+   Deploying 'ERC721Token'
    ---------------------------
    > transaction hash:    0xbdc97143f74acd50e8b2f69ea6e9a16fd7b70a1098b0d47ea7ff3defaba316fa
    > Blocks: 0            Seconds: 12
