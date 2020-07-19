@@ -19,8 +19,8 @@
  */
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "5d2b9c88c5ba43cdb322da24c6fe15c5";
-const mnemonic = "quit mean boat width dinosaur expand earth liar flush ice neck soft";
+const infuraKey = "Infura Key";
+const mnemonic = "Seed Words";
 
 const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
